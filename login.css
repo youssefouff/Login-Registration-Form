@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(bck.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.login-box{
+    max-width: 800px;
+    float: none;
+    margin: 50px auto;
+
+}
+.col-md-6{
+border-radius: 5px;
+}
+.left{
+    background:#009BB8;	
+    padding: 30px;
+}
+.right{
+    background: #ffffff;
+    padding: 30px;
+}
+/* .form-control{
+    background-color: transparent !important;
+    
+} */
+.signupstyle{
+    color: #009BB8;
+}
+.loginstyle{
+    color: white;
+}
+.lstyle{
+    padding: 0px;
+    margin: 0px;
+    color:#009BB8;
+}
+.btn-primary{
+    background-color: #009BB8 !important;
+}
+.loginlabel{
+    color: white;
+}
+.signinlabel{
+    color: #009BB8;
+}
+a{
+    color: #fff !important;
+}
+h1{
+    color:white;
+}
